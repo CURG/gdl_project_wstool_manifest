@@ -1,0 +1,3 @@
+- git: {local-name: gazebo_data_gen_gdl, uri: 'git@github.com:CURG/gazebo_data_gen_gdl.git'}
+- git: {local-name: graspit_gdl, uri: 'git@github.com:CURG/graspit_gdl.git', version: autoGraspGen-dev}
+- git: {local-name: pylearn2, uri: 'git@github.com:CURG/pylearn2.git'}

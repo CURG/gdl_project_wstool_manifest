@@ -1,0 +1,5 @@
+data/*
+gazebo_data_gen_gdl/*
+graspit_gdl/*
+pylearn2/*
+pylearn_classifier_gdl/*
