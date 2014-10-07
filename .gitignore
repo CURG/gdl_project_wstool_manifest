@@ -1,5 +1,7 @@
 data/*
 gazebo_data_gen_gdl/*
 graspit_gdl/*
+ivcon_gdl/*
 pylearn2/*
 pylearn_classifier_gdl/*
+saxena_dataset_gdl/*

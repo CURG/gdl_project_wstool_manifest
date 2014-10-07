@@ -2,3 +2,5 @@
 - git: {local-name: graspit_gdl, uri: 'git@github.com:CURG/graspit_gdl.git', version: autoGraspGen-dev}
 - git: {local-name: pylearn2, uri: 'git@github.com:CURG/pylearn2.git'}
 - git: {local-name: pylearn_classifier_gdl, uri: 'git@github.com:CURG/pylearn_classifier_gdl.git'}
+- git: {local-name: ivcon_gdl, uri: 'git@github.com:CURG/ivcon_gdl.git'}
+- git: {local-name: saxena_dataset_gdl, uri: 'git@github.com:CURG/saxena_dataset_gdl.git'}
