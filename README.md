@@ -7,7 +7,7 @@ Run the following to initialize/update your workspace:
 ## This workspace contains:
 * [Gazebo_data_gen_gdl](https://github.com/CURG/gazebo_data_gen_gdl)
 * [graspit_gdl](https://github.com/CURG/graspit_gdl)
+* [ivcon_gdl](https://github.com/CURG/ivcon_gdl)
 * [pylearn2](https://github.com/CURG/pylearn2)
 * [pylearn_classifier_gdl](https://github.com/CURG/pylearn_classifier_gdl)
-
-
+* [saxena_dataset_gdl](https://github.com/CURG/saxena_dataset_gdl)
