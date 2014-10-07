@@ -1,6 +1,6 @@
-# Graspit-Deep-Learning Workspace
+# Grasp-Deep-Learning Workspace
 
-This ROS workspace encompasses the Graspit-Deep-Learning project. 
+This ROS workspace encompasses the Grasp-Deep-Learning project. 
 Run the following to initialize/update your workspace:
 ```wstool update```
 
