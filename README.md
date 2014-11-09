@@ -10,7 +10,7 @@ To set all enviornment variables run:
 Generating data:
 * Run ```python get_big_bird_models.py``` in *gazebo_data_gen_gdl/src/gazebo_simulate_kinect* (don't forget to source *gazebo_data_gen_gdl/devel/setup.bash*)
 * Run the grasp generator in *graspit_gdl/bin/graspit* using the downloaded models
-* Run ```python build_training_data2.py``` to generate the h5 datasets from the generated grasps
+* Run ```python build_training_data2.py``` to generate the h5 datasets from the generated grasps (NOTE: MUST copy all models from /big_bird_models_processed/ into ~/.gazebo/models FOR NOW)
 * Something goes here...
 * Run ```python train_convnet.py```
 
