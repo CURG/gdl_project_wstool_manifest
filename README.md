@@ -7,7 +7,7 @@ Run the following to initialize/update your workspace:
 To set all enviornment variables run:
 ```source setup.bash```
 
-Generating data:
+Generating data (Look in repo READMEs for more detail):
 * Run ```python get_big_bird_models.py``` in *gazebo_data_gen_gdl/src/gazebo_simulate_kinect* (don't forget to source *gazebo_data_gen_gdl/devel/setup.bash* and *ivcon_gdl/devel/setup.bash*)
 * Run the grasp generator in *graspit_gdl/bin/graspit* using the downloaded models
 * Run ```python build_training_data2.py``` to generate the h5 datasets from the generated grasps (NOTE: MUST copy all models from /big_bird_models_processed/ into ~/.gazebo/models FOR NOW)
