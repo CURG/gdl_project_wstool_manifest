@@ -4,3 +4,4 @@
 - git: {local-name: pylearn_classifier_gdl, uri: 'git@github.com:CURG/pylearn_classifier_gdl.git'}
 - git: {local-name: ivcon_gdl, uri: 'git@github.com:CURG/ivcon_gdl.git'}
 - git: {local-name: saxena_dataset_gdl, uri: 'git@github.com:CURG/saxena_dataset_gdl.git'}
+- git: {local-name: gdl/src, uri: 'git@github.com:CURG/gdl_ros_ws.git'}
