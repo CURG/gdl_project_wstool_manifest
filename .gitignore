@@ -1,5 +1,6 @@
 data/*
 gazebo_data_gen_gdl/*
+gdl/*
 graspit_gdl/*
 ivcon_gdl/*
 models/*
