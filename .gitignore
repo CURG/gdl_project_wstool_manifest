@@ -1,3 +1,4 @@
+.idea/*
 data/*
 gazebo_data_gen_gdl/*
 gdl/*
